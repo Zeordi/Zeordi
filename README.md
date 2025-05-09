@@ -1,1 +1,15 @@
-Hello, My name is Abel Alemayehu Haile, I am a versatile professional with a strong foundation in writing, web development, and design. My expertise includes crafting engaging content, developing responsive websites, and designing intuitive user interfaces. Proficient in HTML, CSS, JavaScript, and ReactJS, I have hands-on experience building dynamic front-end solutions. Additionally, my skills in graphic design and UI/UX enable me to create visually appealing and user-friendly applications. I am also adept at conducting research to inform and optimize my work, ensuring high-quality outputs that meet client expectations.
+**Abel Alemayehu | Software Engineer | Full-Stack Web & App Developer | Graphics Designer & Photo Editor**
+
+As a multifaceted professional, I specialize in crafting efficient software solutions and delivering visually captivating designs. With years of experience in software engineering, web and app development, and graphic design, I bring a unique blend of technical expertise and creative skills to every project.
+
+### Services I Offer:
+- **Software Engineering:** High-performance, scalable software solutions tailored to your business needs.
+- **Full-Stack Web Development:** End-to-end web development using modern technologies (HTML, CSS, JavaScript, React, Node.js, etc.).
+- **App Development:** Custom mobile applications for iOS and Android, built with robust frameworks.
+- **Graphic Design:** Professional branding, logo creation, and UI/UX designs that align with your vision.
+- **Photo Editing:** High-quality photo retouching, manipulation, and editing to enhance your visuals.
+
+I am committed to delivering top-notch quality, meeting deadlines, and maintaining clear communication. Let's work together to bring your ideas to life, whether it's a tech-driven solution or a creative visual project.
+
+Looking forward to collaborating on your next projects. 
+
