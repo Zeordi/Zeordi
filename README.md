@@ -13,8 +13,8 @@
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Mobile+Developer;Machine+Learning;Data+Science;Full-stack+Developer;UI/UX+Developer" width="auto" height="35"/>
 </p>
 
-<p align="center">Currently learning - Data Science and Machine Learning</p>
-<p align="center">Currently working on - Mobile Developer</p>
+<p align="center">Currently learning - Word Press, Data Science and Machine Learning</p>
+<p align="center">Currently working on - Mobile Developer, Full-stack+Development, UI/UX Development</p>
 
 <h3 align="center">Programming Language</h3>
 <p align="center">
@@ -60,11 +60,11 @@
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="Zeordi1@gmail.com" target="_blank">
+  <a href="ordialex1226@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
      
-  <a href="https://www.linkedin.com/in/samuel-tolossa-048938238/" target="_blank">
+  <a href="https://www.linkedin.com/in/abel-alemayehu1994/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
