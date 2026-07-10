@@ -10,7 +10,7 @@
 
 <h3 align="center">My Exprience</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Mobile+Developer;Machine+Learning;Data+Science" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Mobile+Developer;Machine+Learning;Data+Science;Full-stack+Developer;UI/UX+Developer" width="auto" height="35"/>
 </p>
 
 <p align="center">Currently learning - Data Science and Machine Learning</p>
